@@ -7,12 +7,12 @@ TechStack used: MongoDB, Express, React, Redux, NodeJs
 
 **user features:**
  - register and login users. 
- - password is stored in database in encrypted format with salt.
  - Dark mode.
  - posts include text(caption) and image(s)
  - Add Friends
  - Remove Friends
  - Like and comment on posts.
+ - password is stored in database in encrypted format with salt.
 
 
 **Light Mode**
